@@ -1,4 +1,3 @@
-// ---------------------------- Product ----------------------------
 class Product {
     private String name;
     private String category;
