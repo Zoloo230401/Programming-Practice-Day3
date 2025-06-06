@@ -6,7 +6,7 @@ public class Main {
         Location warehouse = new Location("Warehouse 1");
         Location branch = new Location("Salbar 2");
 
-        Inventory inventory = new Inventory();
+        Warehouse inventory = new Warehouse();
 
         Product laptop = new Product("Notebook", "Electron", 2500000, 10, s1, warehouse);
         Product phone = new Product("Mobile phone", "Electron", 1200000, 4, s2, warehouse);
